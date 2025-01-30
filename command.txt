@@ -1,0 +1,3 @@
+git init = initializing git
+git add -A = adding changes
+ 
