@@ -2,3 +2,6 @@ git init = initializing git
 git add -A = adding changes 
 
 git commit -m = adding to commit
+
+git config --global user.name "username"
+git config --global user.email "email"
